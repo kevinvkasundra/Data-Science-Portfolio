@@ -1,6 +1,7 @@
 # KEVIN VINAY KASUNDRA
 
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R files. <br> *Note: Data used in the projects (accessed under data directory) is for demnonstration pu
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R files. <br> 
+
 *Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
 
 Email: kevinvkasundra@gmail.com <br>
