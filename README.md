@@ -27,6 +27,11 @@ LinkedIn: https://www.linkedin.com/in/kevin-kasundra
      - [‘CFD Analysis of Wind Turbine’, Undergrad Thesis Project]() : Analyzed and optimized the attributes affecting the wake region of a Wind Turbine and compared the results with the WInDS code in MATLAB.
      - [Production Demand Forecasting (Long & Short) for Arconic Fastening Systems & Rings (Fortune 250)]() : Implemented Moving average, Exponential smoothing, Croston’s method, ARIMA and Winter Holt’s methods to forecast production demands. Cross verified the forecasts using Facebook Prophet Algorithm.
      - [Inventory Management for VTI of Texas]() : Calculated ‘when and how much’ stock; truck load optimization.
+     - [Time Series analysis using Neural Networks]() : 
+     - [LA Bicycle Share]() : 
+     - [Data Mining]() : 
+     - [Google Maps using API]() : 
+
 
 
 - **Visualization**
