@@ -51,5 +51,5 @@ LinkedIn: https://www.linkedin.com/in/kevin-kasundra
 
 ### IBM DIGITAL BADGE FOR DATA SCIENCE PROFESSIONAL DEGREE 
 
- - [IBM Data Science Professional Certificate](https://www.youracclaim.com/badges/6036b3d3-7179-49cb-977d-0bff1d71eec9/linked_in)
+ - [IBM Data Science Professional Certificate]()
     
